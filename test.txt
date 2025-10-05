@@ -1,1 +1,2 @@
 hello this is my first git file and from now  onwards i will be pro in this 
+#this is my second comment and willl be push now 
